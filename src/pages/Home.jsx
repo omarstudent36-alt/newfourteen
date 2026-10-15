@@ -5,10 +5,11 @@ import imgthree from "../assets/imgthree.png"
 import imgfour from "../assets/imgfour.png"
 import Productsinfo from "../components/Productsinfo";
 import Hero from "../components/Hero";
-import Navbar from "../components/navbar";
+import Navbar from "../components/Navbarinterface";
 import "./Home.css"
 
 import Penfits from "../components/Penfitspage";
+import Navbarinterface from "../components/Navbarinterface";
 
 let products=[
 
